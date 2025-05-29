@@ -26,7 +26,7 @@ public class DebugApplication {
         cosmic.setTenantNumber("ierp");
         
 //        cosmic.setConfigUrl("127.0.0.1:2181?user=zk&password=xxx");
-        cosmic.setConfigUrl("127.0.0.1:2181");
+        cosmic.setConfigUrl("127.0.0.1:2181?user=zookeeper&password=GPJ123456");
         
 //        cosmic.setMcServerUrl("http://127.0.0.1:8090");
         cosmic.setMcServerUrl("http://127.0.0.1:8090/"); 
